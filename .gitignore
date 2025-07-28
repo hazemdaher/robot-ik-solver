@@ -1,1 +1,4 @@
 robot_ik_venv/
+robot_ik_venv/
+__pycache__/
+.DS_Store
